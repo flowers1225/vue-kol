@@ -10,6 +10,6 @@
 
 > 后台利用express+leancloud进行数据操作和保存
 
-![](https://github.com/flowers1225/vue-kol/master/1.jpg)
+![](https://github.com/flowers1225/vue-kol/blob/master/1.jpg)
 
-![](https://github.com/flowers1225/vue-kol/master/2.jpg)
+![](https://github.com/flowers1225/vue-kol/blob/master/2.jpg)
